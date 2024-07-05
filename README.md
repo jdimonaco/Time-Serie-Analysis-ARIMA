@@ -2,7 +2,7 @@
 
 ## Project Title and Description
 
-## ## Motivation
+## Motivation
 Climate change is an issue that affect all of us. Accurate predictions of future temperature fluctuations are crucial to plan for the future, and take action to mitigate the effects of climate change.  This project aims to leverage the ARIMA model to predict future climate temperature changes using historical data. 
 
 ## Project Objectives
