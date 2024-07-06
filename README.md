@@ -27,7 +27,16 @@ The primary objectives of this project are to:
 
 ## About the Data
 
+
 ## Methodology
+
+1. Data preprocessing.
+2. Model selection and parameter tuning.
+3. Model Estimation.
+4. Model Validation.
+5. Forecasting.
+6. Interpretation and Application.
+7. Comparison with logistic regression for relationship analysis.
 
 ## Results
 
