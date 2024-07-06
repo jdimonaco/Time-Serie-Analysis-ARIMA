@@ -16,13 +16,13 @@ The primary objectives of this project are to:
 ## Actionable Insights 
 
 ## Tools & Libraries Used
-Python 
-Pandas
-Numpy
-Matplotlib
-Sklearn
-Seaborn
-Statsmodels
+- Python 
+- Pandas
+- Numpy
+- Matplotlib
+- Sklearn
+- Seaborn
+- Statsmodels
 
 
 ## About the Data
