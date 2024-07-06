@@ -14,6 +14,7 @@ The primary objectives of this project are to:
 - Compare the results with other statistical models.
   
 ## Actionable Insights 
+This project could pinpoint areas most at risk from future temperature changes which can help direct resources towards areas most in need of preparing for extreme temperatures.
 
 ## Tools & Libraries Used
 - Python 
