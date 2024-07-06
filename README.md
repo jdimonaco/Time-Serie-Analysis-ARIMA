@@ -1,9 +1,11 @@
-# Time-Serie-Analysis-ARIMA
+# Time-Series-Analysis-of-Climate-Change-using-ARIMA-Model
 
-## Project Title and Description
+## Objective
+This project aims to analyse of Earth's continuously warming climate. Using time series analysis to uncover hidden patterns in temperature data. The objective is to interpret the patterns and changes in Earth's temperature, a vital process in undertanding the impact of climate change and mapping out a cooler trajectory for the future.
+
 
 ## Motivation
-Climate change is an issue that affect all of us. Accurate predictions of future temperature fluctuations are crucial to plan for the future, and take action to mitigate the effects of climate change.  This project aims to leverage the ARIMA model to predict future climate temperature changes using historical data. 
+The Earth's climate is changing, and the future feels uncertain. But what if we could peek ahead? Accurately predicting future temperature fluctuations is the key to preparing for the impact of climate change. This project excites me because it uses the ARIMA model, a powerful tool, to unlock the secrets driving our climate. Forecasting future temperature changes, empowering us to adapt and fight back against the effects of climate change.Using data, we can move beyond inspiration and create tangible solutions.
 
 ## Project Objectives
 The primary objectives of this project are to:
