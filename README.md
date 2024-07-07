@@ -27,6 +27,13 @@ This project could pinpoint areas most at risk from future temperature changes w
 
 
 ## About the Data
+The dataset has been privided by Berkeley Earth Surface Temperature (BEST) which records the temperature values over time. This dataset is regualrly updated. The focus of this project is on the GlobalLandTemperaturesByState sub-dataset. 
+
+- DT: Date of the temperature record.
+- Average temperature:	Average temperature in Celsius for the state on the corresponding date.
+- Average temperature uncertainty:	95% confidence interval around the average temperature (capturing measurement uncertainty).
+- State:	The specific state for which temperature data is recorded.
+- Country:	The specific country for which temperature data is recorded.
 
 
 ## Methodology
