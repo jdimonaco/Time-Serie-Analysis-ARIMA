@@ -25,8 +25,6 @@ This project could pinpoint areas most at risk from future temperature changes w
 - Seaborn
 - Statsmodels
 
-[Click here to access the dataset on Kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByState.csv)
-
 
 ## About the Data
 This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST). BEST tracks temperature changes over time, and their data is constantly updated to reflect the latest trends. The focus of this project is specifically on the sub-dataset called GlobalLandTemperaturesByState.
@@ -37,6 +35,7 @@ This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST
 - State:	The specific state for which temperature data is recorded.
 - Country:	The specific country for which temperature data is recorded.
 
+[Click here to access the dataset on Kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByState.csv)
 
 ## Methodology
 
