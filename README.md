@@ -49,7 +49,18 @@ This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST
 
 ## Results
 
+- The average temperature in the data is 8.49°C.
+- The ARIMA(3,1,3) model predicts a warming trend, with the last year's average around 10.62°C, 2.13°C warmer than the current data, and an average temperature of 9.17°C. This consistency across models suggests a continuation of warming trends observed in the dataset.
+- The ARIMA(3,1,3) low MSE and AIC suggest it accurately captures trends, making its predictions reliable for climate research and policy decisions. 
+
 ## Recommendations
+
+The ARIMA(3,1,3) did a great job at forecasting temperature data. To improve our understanding, here are some next steps:
+
+- Explore more sophisticated models and adjusting the ARIMA's parameters to see if even better forecasts are possible.
+- Adding more features, like CO2 emissions, could give the models a richer picture and potentially lead to more accurate predictions.
+- By including other forecasting techniques,comparisons between strengths and weaknesses are possible, ultimately choosing the best approach for this project.
+- While the ARIMA(3,1,3) performed well, keeping an eye on the model's performance is crucial. As new data comes in and temperature patterns change, model refinement or even changing model might be necessary to ensure forecast precision.
 
 
 ## Credits/Resources
