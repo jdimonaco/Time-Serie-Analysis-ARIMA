@@ -66,7 +66,7 @@ The ARIMA (3,1,3) did a great job at forecasting temperature data. To improve ou
 
 ## Credits/Resources
 
-https://www.kaggle.com/
-https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
-https://scikit-learn.org/stable/modules/preprocessing.html
-https://realpython.com/pandas-plot-python/
+- https://www.kaggle.com/
+- https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+- https://scikit-learn.org/stable/modules/preprocessing.html
+- https://realpython.com/pandas-plot-python/
