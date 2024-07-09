@@ -54,7 +54,7 @@ This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST
 - The ARIMA (3,1,3) low MSE and AIC suggest it accurately captures trends, making its predictions reliable for climate research and policy decisions. 
 
 ## Recommendations
-[https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/]
+
 
 The ARIMA (3,1,3) did a great job at forecasting temperature data. To improve our understanding, here are some next steps:
 
@@ -65,3 +65,8 @@ The ARIMA (3,1,3) did a great job at forecasting temperature data. To improve ou
 
 
 ## Credits/Resources
+
+https://www.kaggle.com/
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://realpython.com/pandas-plot-python/
