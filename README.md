@@ -14,7 +14,7 @@ The primary objectives of this project are to:
 - Compare the results with other statistical models.
   
 ## Actionable Insights 
-This project provides insights into historical temperature trends and future projections, which can help policymakers and environmental organisations anticipate the impacts of climate change,prioritise actions to mitigate potential risks, and adapt strategies to better manage the challenges of rising temperatures.
+This project provides insights into historical temperature trends and future projections, which can help policymakers and environmental organisations anticipate the impacts of climate change, prioritise actions to mitigate potential risks, and adapt strategies to better manage the challenges of rising temperatures.
 
 ## Tools & Libraries Used
 - Python 
