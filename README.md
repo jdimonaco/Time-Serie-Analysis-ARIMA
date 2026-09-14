@@ -45,7 +45,7 @@ This project uses historical land-temperature data compiled by Berkeley Earth. T
 4. Model Validation.
 5. Forecasting.
 6. Interpretation and Application.
-7. Comparison with linear regression as a simple benchmark for temperature-trend analysis.
+
 
 ## Results
 
