@@ -45,6 +45,7 @@ This project uses historical land-temperature data compiled by Berkeley Earth. T
 4. Model Validation.
 5. Forecasting.
 6. Interpretation and Application.
+7. The linear regression benchmark, evaluated on the same held-out period as ARIMA, performs far worse (R² ≈ -12.4, test MSE 2.70) than ARIMA(3,1,3)'s test MSE of 0.427 — the training window's noisiest, sparsest decades pull the fitted line well below the accelerating warming seen later in the record, confirming ARIMA's forecasting captures meaningfully more of the real pattern than a naive linear trend.
 
 
 ## Results
