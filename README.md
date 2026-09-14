@@ -27,7 +27,7 @@ This project provides insights into historical temperature trends and future pro
 
 
 ## About the Data
-This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST). BEST tracks temperature changes over time, and their data is constantly updated to reflect the latest trends. The focus of this project is specifically on the sub-dataset called GlobalLandTemperaturesByState.
+This project uses historical land-temperature data compiled by Berkeley Earth. The selected file, GlobalLandTemperaturesByState.csv, contains temperature observations for individual states and countries over time. The notebook prepares and aggregates these records into a chronological series for time-series analysis. It should therefore be understood as an analysis derived from state-level land-temperature observations rather than a direct measurement of the Earth’s single global average temperature.
 
 - DT: Date of the temperature record.
 - Average temperature:	Average temperature in Celsius for the state on the corresponding date.
@@ -45,13 +45,13 @@ This project uses a dataset provided by Berkeley Earth Surface Temperature (BEST
 4. Model Validation.
 5. Forecasting.
 6. Interpretation and Application.
-7. Comparison with logistic regression for relationship analysis.
+7. Comparison with linear regression as a simple benchmark for temperature-trend analysis.
 
 ## Results
 
 - The average temperature in the data is 8.49°C.
-- The ARIMA (3,1,3) model predicts temperature to rise to approximately 9.43°C by in one year. This indicates a 0.94°C increase from the current average of 8.49°C. This consistency across models suggests a continuation of warming trends observed in the dataset.
-- The ARIMA (3,1,3) low MSE and AIC suggest it accurately captures trends, making its predictions reliable for climate research and policy decisions. 
+- The mean temperature across the analysed dataset is 8.49°C. The ARIMA (3,1,3) model produces a forecast of approximately 9.43°C at the end of the one-year forecast horizon. This forecast is consistent with the broader warming trend identified in the historical series. However, the dataset-wide mean should not be interpreted as the temperature immediately preceding the forecast.
+- Among the candidate specifications evaluated, the ARIMA (3,1,3) model produced favourable MSE and AIC results. These measures suggest that the model captured useful patterns in the analysed series. However, AIC measures relative model fit rather than guaranteeing future forecast accuracy, so the results should be interpreted alongside validation performance, residual diagnostics and forecast uncertainty. 
 
 ## Recommendations
 
